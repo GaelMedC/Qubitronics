@@ -62,15 +62,6 @@ Se aplicó **Readout Error Mitigation** utilizando la biblioteca `mthree`. El mi
 - Se observó una mejora significativa en fidelidad al aplicar mitigación de errores.
 - El código está preparado para correr en backends reales de IBMQ, como `ibm_sherbrooke`.
 
-## 🗂️ Estructura del Repositorio
-
-📁 HackTheQuBit2025/
-│
-├── Hackathon_Ising_Model_with_transient_field.ipynb # Notebook completo con simulación
-├── Reto_HackTheQuBit2025.pdf # Documento oficial del reto
-└── README.md # Este archivo
-
-
 ## 👥 Equipo
 
 **Participante principal:**  
