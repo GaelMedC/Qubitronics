@@ -32,7 +32,7 @@ Simulamos el **modelo de Ising en 1D con dos qubits y un campo transversal**, ut
 📁 HackTheQuBit2025/  
 │  
 ├── HackTheQubit - VQE_Ising in IBM Quantum.ipynb # Simulación del IVQ en una computadora de IBM  
-├── Hackathon_Ising_Model_with_transient_field_Simulation.ipynb # Simulación del modelo en una computadora física  
+├── Hackathon_Ising_Model_with_transient_field_Simulation.ipynb # Simulación Ising en una computadora física  
 ├── QUBITRONICS - ISING MODEL FOR QUANTUM COMPUTING.pdf # Presentación de resultados  
 ├── Reto_HackTheQuBit2025.pdf # Documento oficial del reto  
 └── README.md # Este archivo  
