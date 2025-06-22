@@ -71,11 +71,11 @@ Estudiante de Maestría en Inteligencia Artificial Aplicada
 Tecnológico de Monterrey – Líderes del Mañana
 
 Gael Medina
-Estudiante de Licenciatura en Físicia
+Estudiante de Licenciatura en Física  
 Universidad Autónoma de Nuevo León
 
 Emilio Salcedo López
-Estudiante de Ingeniería en Electrónica
+Estudiante de Ingeniería en Electrónica  
 Tecnológico de Monterrey
 
 ## 📄 Licencia
