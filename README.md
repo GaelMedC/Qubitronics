@@ -27,6 +27,15 @@ Simulamos el **modelo de Ising en 1D con dos qubits y un campo transversal**, ut
 - `matplotlib`, `numpy`, `scipy.optimize`
 - Mitigación: **Readout Error Mitigation (M3Mitigation)** con `mthree`
 
+
+## 📁 Estructura del proyecto 
+📁 HackTheQuBit2025/  
+│  
+├── HackTheQubit - VQE_Ising in IBM Quantum.ipynb # Notebook con simulación del IVQ en una computadora de IBM  
+├── Hackathon_Ising_Model_with_transient_field_Simulation.ipynb # Notebook completo con simulación del modelo en una computadora física  
+├── Reto_HackTheQuBit2025.pdf # Documento oficial del reto  
+└── README.md # Este archivo  
+
 ## 🧮 Formulación del Hamiltoniano
 
 El Hamiltoniano simulado fue:
