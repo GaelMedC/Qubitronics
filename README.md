@@ -70,11 +70,11 @@ José Gabriel Castillo García
 Estudiante de Maestría en Inteligencia Artificial Aplicada  
 Tecnológico de Monterrey – Líderes del Mañana
 
-Gael Medina
+Gael Medina  
 Estudiante de Licenciatura en Física  
 Universidad Autónoma de Nuevo León
 
-Emilio Salcedo López
+Emilio Salcedo López  
 Estudiante de Ingeniería en Electrónica  
 Tecnológico de Monterrey
 
