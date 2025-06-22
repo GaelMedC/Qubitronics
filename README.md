@@ -25,8 +25,7 @@ Simulamos el **modelo de Ising en 1D con dos qubits y un campo transversal**, ut
 - `qiskit.circuit.library.EfficientSU2`
 - `qiskit.quantum_info.SparsePauliOp`
 - `matplotlib`, `numpy`, `scipy.optimize`
-- Mitigación: **Zero-Noise Extrapolation (RichardsonFactory)**
-- Opción para incluir: **Readout Error Mitigation (M3Mitigation)** con `mthree`
+- Mitigación: **Readout Error Mitigation (M3Mitigation)** con `mthree`
 
 ## 🧮 Formulación del Hamiltoniano
 
