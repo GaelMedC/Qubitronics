@@ -70,9 +70,9 @@ José Gabriel Castillo García
 Estudiante de Maestría en Inteligencia Artificial Aplicada  
 Tecnológico de Monterrey – Líderes del Mañana
 
-Gael
+Gael Medina
 
-Emilio
+Emilio Salcedo López
 
 ## 📄 Licencia
 
