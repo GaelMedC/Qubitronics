@@ -77,7 +77,7 @@ Universidad Autónoma de Nuevo León
 Emilio Salcedo López
 Estudiante de Ingeniería en Electrónica
 Tecnológico de Monterrey
-}
+
 ## 📄 Licencia
 
 Este repositorio está bajo la licencia MIT. Puedes usar, modificar y distribuir libremente este código, siempre que se mencione al autor original.
