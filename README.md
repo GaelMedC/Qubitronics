@@ -4,7 +4,7 @@ Este proyecto fue desarrollado como parte del **Hack The QuBit 2025**, organizad
 
 ## 📌 Resumen del Proyecto
 
-Simulamos el **modelo de Ising en 1D con dos qubits y un campo transversal**, utilizando Qiskit 2.1.0. El objetivo fue estimar la energía del estado fundamental mediante un algoritmo variacional (VQE) y analizar su evolución dinámica. Se utilizó el ansatz `EfficientSU2` y se aplicaron técnicas de mitigación de errores como **Richardson extrapolation (Zero Noise Extrapolation - ZNE)**.
+Simulamos el **modelo de Ising en 1D con dos qubits y un campo transversal**, utilizando Qiskit 2.1.0. El objetivo fue estimar la energía del estado fundamental mediante un algoritmo variacional (VQE), **simular la evolución temporal mediante trotterización**, y analizar los resultados obtenidos en simuladores y hardware real. Se utilizó el ansatz `EfficientSU2` y se aplicó mitigación de errores de lectura (`mthree.M3Mitigation`).
 
 ## 🧠 Objetivos del Hackathon
 
@@ -42,9 +42,11 @@ donde:
 
 Implementado en Qiskit como `SparsePauliOp` con etiquetas de Pauli `"ZZ"`, `"XI"`, `"IX"`.
 
-## 🔬 Resolución Analítica
+## 🔬 Resolución Analítica y Evolución Temporal
 
-Se compararon los valores de energía mínima encontrados por el algoritmo VQE contra los valores esperados de la diagonalización exacta del Hamiltoniano. También se simuló la evolución temporal del sistema desde el estado \(|00\rangle\), observando dinámicas coherentes usando trotterización.
+Se compararon los valores de energía mínima encontrados por el algoritmo VQE contra los valores esperados de la diagonalización exacta del Hamiltoniano. 
+
+Además, se simuló la **evolución temporal del sistema desde el estado \(|00\rangle\)** utilizando **trotterización**, una técnica que permite aproximar la evolución bajo un Hamiltoniano no trivial mediante productos de exponentiales de sus términos individuales. Esto permitió observar cómo cambian las poblaciones de los estados medidos en función del tiempo, revelando oscilaciones cuánticas coherentes.
 
 ## ⚛️ Circuito Cuántico
 
