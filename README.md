@@ -46,7 +46,7 @@ Implementado en Qiskit como `SparsePauliOp` con etiquetas de Pauli `"ZZ"`, `"XI"
 
 Se compararon los valores de energía mínima encontrados por el algoritmo VQE contra los valores esperados de la diagonalización exacta del Hamiltoniano. 
 
-Además, se simuló la **evolución temporal del sistema desde el estado \(|00\rangle\)** utilizando **trotterización**, una técnica que permite aproximar la evolución bajo un Hamiltoniano no trivial mediante productos de exponentiales de sus términos individuales. Esto permitió observar cómo cambian las poblaciones de los estados medidos en función del tiempo, revelando oscilaciones cuánticas coherentes.
+Además, se simuló la **evolución temporal del sistema desde el estado \(|00>)** utilizando **trotterización**, una técnica que permite aproximar la evolución bajo un Hamiltoniano no trivial mediante productos de exponentiales de sus términos individuales. Esto permitió observar cómo cambian las poblaciones de los estados medidos en función del tiempo, revelando oscilaciones cuánticas coherentes.
 
 ## ⚛️ Circuito Cuántico
 
